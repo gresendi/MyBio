@@ -1,2 +1,4 @@
                         Short Bio
 Hello there, my name is Gilberto Resendiz, and I currently 25 years old. I am currently trying to transition into a new career, and looking forward to the upcoming challenges in this bootcamp. Fun fact my birthday is in 19 days.
+
+## added 
